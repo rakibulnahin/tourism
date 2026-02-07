@@ -12,5 +12,9 @@ The reply I am currently getting from the fine-tuned model is shown below but I 
 My second chaarge!!
 I have used Chroma based vector database with tag based queries and SegTransformer for image segmentation. 
 All this pass info to the RAG system to choose the best information based on which LLM provides the simple. 
+
 <img width="498" height="688" alt="image" src="https://github.com/user-attachments/assets/9a6f6e88-d811-47d1-8fde-38109f660a0c" />
+
 Just asked it where to go for a swim and it replied Bondi not a fan of bondi thought but workss!!!
+
+Next Integrate with my trained model for better response and chatting rather than just Q&A
